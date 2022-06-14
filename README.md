@@ -2,7 +2,7 @@
 
 This repository contains the material used to participate in **BioCreative VII Track 1 - Text mining drug and chemical-protein interactions (DrugProt)**, through the adaptation of the [BiOnt](https://github.com/lasigeBioTM/BiOnt) system, using the Gene Ontology (GO) and Chemical Entities of Biological Interest (ChEBI) ontologies.
 
-Our academic paper which describes our participation (**lasigeBioTM**) in the BioCreative VII will be available [here]().
+Our academic paper which describes our participation (**lasigeBioTM**) in the BioCreative VII will be available [here](https://scholar.google.com/scholar?oi=bibs&cluster=14474104133921297233&btnI=1&hl=pt-PT).
 
 ## Submitted Models
 
@@ -18,7 +18,7 @@ Our team submitted five runs, which correspond to the following models and featu
 
 ## Reference
 
-Available soon.
+Diana Sousa, Rodrigo Cassanheira, and Francisco M. Couto. 2021. lasigeBioTM at BioCreative VII Track 1: Text mining drug and chemical-protein interactions using biomedical ontologies. 
 
 
 
