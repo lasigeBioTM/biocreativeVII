@@ -10,11 +10,11 @@ Our team submitted five runs, which correspond to the following models and featu
 
 | RUN | Ancestors | Class Weights | Post-processing Rules |
 |:---:|:---:|:---:|:---:|
-| [1](https://drive.google.com/drive/folders/1gIgtXbz8OZLAtR-IR2QE3US7kyanhPyy?usp=sharing) | x | x | x |
-| [2](https://drive.google.com/drive/folders/18RaIR3gOJGA2xrmw5MhZaXR64ras3muE?usp=sharing) | - | - | - |
-| [3](https://drive.google.com/drive/folders/1ANVwdxjS3u06wXdHVr881JcovqQbefni?usp=sharing) | - | x | - |
-| [4](https://drive.google.com/drive/folders/1VLQOXKzD7hry11etQFnkprDOrDk1npwi?usp=sharing) | - | - | x |
-| [5](https://drive.google.com/drive/folders/1NaBUjErWB_NPi7_kul7jSeQfYXVhBZEb?usp=sharing) | - | x | x |
+| [1](https://zenodo.org/records/10228470?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6Ijk3MDNlODBmLTUxZGQtNDkyMS04NjgzLWZlN2YxMDhjN2YzNCIsImRhdGEiOnt9LCJyYW5kb20iOiIxMzgwYTY4ZDlkYjU3MzRmY2EwYzQ4YTI1YWVmNGQ3NyJ9.ACTwRZdI-VSWi-AJ4fjPg_LTfWXrbc66OAGo2LW4YoQvkwOKCJBrtjDtwYd_Qw-Pm6ODkDxQnBPvT0M0asc9bA) | x | x | x |
+| [2](https://zenodo.org/records/10228470?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6Ijk3MDNlODBmLTUxZGQtNDkyMS04NjgzLWZlN2YxMDhjN2YzNCIsImRhdGEiOnt9LCJyYW5kb20iOiIxMzgwYTY4ZDlkYjU3MzRmY2EwYzQ4YTI1YWVmNGQ3NyJ9.ACTwRZdI-VSWi-AJ4fjPg_LTfWXrbc66OAGo2LW4YoQvkwOKCJBrtjDtwYd_Qw-Pm6ODkDxQnBPvT0M0asc9bA) | - | - | - |
+| [3](https://zenodo.org/records/10228470?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6Ijk3MDNlODBmLTUxZGQtNDkyMS04NjgzLWZlN2YxMDhjN2YzNCIsImRhdGEiOnt9LCJyYW5kb20iOiIxMzgwYTY4ZDlkYjU3MzRmY2EwYzQ4YTI1YWVmNGQ3NyJ9.ACTwRZdI-VSWi-AJ4fjPg_LTfWXrbc66OAGo2LW4YoQvkwOKCJBrtjDtwYd_Qw-Pm6ODkDxQnBPvT0M0asc9bA) | - | x | - |
+| [4](https://zenodo.org/records/10228470?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6Ijk3MDNlODBmLTUxZGQtNDkyMS04NjgzLWZlN2YxMDhjN2YzNCIsImRhdGEiOnt9LCJyYW5kb20iOiIxMzgwYTY4ZDlkYjU3MzRmY2EwYzQ4YTI1YWVmNGQ3NyJ9.ACTwRZdI-VSWi-AJ4fjPg_LTfWXrbc66OAGo2LW4YoQvkwOKCJBrtjDtwYd_Qw-Pm6ODkDxQnBPvT0M0asc9bA) | - | - | x |
+| [5](https://zenodo.org/records/10228470?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6Ijk3MDNlODBmLTUxZGQtNDkyMS04NjgzLWZlN2YxMDhjN2YzNCIsImRhdGEiOnt9LCJyYW5kb20iOiIxMzgwYTY4ZDlkYjU3MzRmY2EwYzQ4YTI1YWVmNGQ3NyJ9.ACTwRZdI-VSWi-AJ4fjPg_LTfWXrbc66OAGo2LW4YoQvkwOKCJBrtjDtwYd_Qw-Pm6ODkDxQnBPvT0M0asc9bA) | - | x | x |
 
 ## Reference
 
